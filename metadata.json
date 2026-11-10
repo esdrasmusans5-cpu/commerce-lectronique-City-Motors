@@ -1,6 +1,0 @@
-{
-  "name": "ORBITAL PRÉCISION | Plateforme de Vente & Approvisionnement Industriel",
-  "description": "Plateforme B2B de vente et d'approvisionnement en roulements de précision mécanique, outillage ISO et composants industriels avec devis express, calculs dimensionnels et gestion de panier pro.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
